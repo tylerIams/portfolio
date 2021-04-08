@@ -5,7 +5,7 @@ black==19.10b0
 cffi==1.14.0
 click==7.1.1
 cryptography==2.8
-Django==3.0.4
+Django==3.0.14
 django-rest-knox==4.1.0
 djangorestframework==3.11.0
 pathspec==0.7.0
